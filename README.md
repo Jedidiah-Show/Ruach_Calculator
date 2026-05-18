@@ -91,26 +91,26 @@ Ruach_Calculator
 
 ## ⚠️ Notes
 
-This project uses manual expression parsing (no external math parser library).
-Invalid expressions return an error message on screen.
-GUI is built using the Fyne framework.
+- This project uses manual expression parsing (no external math parser library).
+- Invalid expressions return an error message on screen.
+- GUI is built using the Fyne framework.
 
 ---
 
 ## 💡 Future Improvements
 
-Add parentheses support ()
-Add history of calculations
-Improve error handling system
-Add scientific functions (sin, cos, tan, log)
+- Add parentheses support ()
+- Add history of calculations
+- Improve error handling system
+- Add scientific functions (sin, cos, tan, log)
 
 ---
 
 ## 👨🏽‍💻 Author
-
+```
 Built by Ayomide Shogbesan (Jedidiah)
 Passion: Data, Cloud Engineering, and Software Systems 🚀
-
+```
 ---
 
 ## 📜 License
