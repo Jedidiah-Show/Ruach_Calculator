@@ -48,14 +48,14 @@ go run main.go
 
 The calculator:
 
-Takes input as a string slice
-Parses numbers and operators
-Processes operations in order of precedence:
-√ (square root)
-^ (power)
-%
-× and ÷
-+ and −
+- Takes input as a string slice
+- Parses numbers and operators
+- Processes operations in order of precedence:
+- square root (√)
+- Power (^)
+- Percentage (%)
+- Multiplication and Division (× and ÷)
+- Addition and Subtraction (+ and −)
 
 Returns a final computed result
 
@@ -73,7 +73,7 @@ GOOS=windows GOARCH=amd64 go build -o Ruach_Calculator.exe
 ---
 
 ## 📁 Project Structure
-
+```
 Ruach_Calculator
 ├── main.go
 ├── fyne-cross
@@ -86,7 +86,7 @@ Ruach_Calculator
 ├── go.mod
 ├── go.sum
 └── README.md
-
+```
 ---
 
 ## ⚠️ Notes
